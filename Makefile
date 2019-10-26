@@ -1,5 +1,5 @@
 build: Dockerfile
-	docker build . -t my_server:1
+	docker build . -t my_server
 
 stop:
 	
